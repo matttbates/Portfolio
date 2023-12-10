@@ -34,7 +34,9 @@ Chromebook
 Android
 
 [Bitvo.com](https://bitvo.com)
+<br>
 [Vog: Bitvo](https://vogappdevelopers.com/portfolio/bitvo/)
+<br>
 [APKOnline: Bitvo](https://www.apkonline.net/bitvo/com.vog.bitvo)
 
 ## ![image](https://github.com/matttbates/Portfolio/assets/9297325/b880fb14-da79-4929-8516-3ddfa4723195) Trigger World
@@ -57,6 +59,7 @@ Android
 Android
 
 [Google Play: Vytality](https://play.google.com/store/apps/details?id=com.vog.vytality_customer)
+<br>
 [Google Play: Vytality - Employee](https://play.google.com/store/apps/details?id=com.vog.vytality_employee)
 
 ## ![image](https://github.com/matttbates/Portfolio/assets/9297325/2bcd53d0-5338-487a-9f26-e744b9ba1144) Truli
@@ -72,6 +75,7 @@ Android
 Android, Backend
 
 [Google Play: Easy Parent](https://play.google.com/store/apps/details?id=com.vog.easyparent)
+<br>
 [Google Play: Easy Parent: Child](https://play.google.com/store/apps/details?id=com.vog.easyparent_child)
 
 ## ![image](https://github.com/matttbates/Portfolio/assets/9297325/ce38eb6f-6788-4a85-8fdc-08fde0dbf8a6) The Clueless Guide: Alberta
