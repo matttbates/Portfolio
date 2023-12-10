@@ -4,6 +4,8 @@
 2020 - 2023
 
 Android
+<br>
+Role: Lead Developer
 
 [Google Play: Electrum Unity II](https://play.google.com/store/apps/details?id=com.electrumsabers.unity)
 
@@ -11,6 +13,8 @@ Android
 2023
 
 Android
+<br>
+Role: Maintenance
 
 [Google Play: Karbon-X](https://play.google.com/store/apps/details?id=com.vog.karbonx)
 
@@ -18,6 +22,8 @@ Android
 2023
 
 Android Tablet
+<br>
+Role: Lead Developer
 
 [TrojanSafety.com](https://www.trojansafety.com)
 
@@ -25,6 +31,8 @@ Android Tablet
 2022
 
 Chromebook
+<br>
+Role: Maintenance, Feature Update
 
 [Google Play: HP Anyware PCoIP Client](https://play.google.com/store/apps/details?id=com.teradici.rubato.client)
 
@@ -32,6 +40,8 @@ Chromebook
 2019 - 2022
 
 Android
+<br>
+Role: Lead Developer
 
 [Bitvo.com](https://bitvo.com)
 <br>
@@ -43,6 +53,8 @@ Android
 2021 - 2022
 
 Android
+<br>
+Role: Lead Developer
 
 [Google Play: Trigger World](https://play.google.com/store/apps/details?id=com.vog.triggerworld)
 
@@ -50,6 +62,8 @@ Android
 2021
 
 Android
+<br>
+Role: Maintenance
 
 [Google Play: Quill Financial](https://play.google.com/store/apps/details?id=com.vog.quill)
 
@@ -57,6 +71,8 @@ Android
 2019 - 2021
 
 Android
+<br>
+Role: Maintenance
 
 [Google Play: Vytality](https://play.google.com/store/apps/details?id=com.vog.vytality_customer)
 <br>
@@ -66,6 +82,8 @@ Android
 2020 - 2021
 
 Android
+<br>
+Role: Lead Developer
 
 [APKOnline: Truli](https://www.apkonline.net/truli/com.vog.truli)
 
@@ -73,6 +91,8 @@ Android
 2019 - 2021
 
 Android, Backend
+<br>
+Role: Lead Developer
 
 [Google Play: Easy Parent](https://play.google.com/store/apps/details?id=com.vog.easyparent)
 <br>
@@ -82,6 +102,8 @@ Android, Backend
 2021
 
 Android
+<br>
+Role: Maintenance
 
 [arrangeitdelivery.com](https://www.arrangeitdelivery.com)
 
@@ -89,6 +111,8 @@ Android
 2018 - 2021
 
 Android
+<br>
+Role: Lead Developer
 
 [Google Play: Skilli](https://play.google.com/store/apps/details?id=com.vog.skilli)
 
@@ -96,6 +120,8 @@ Android
 2019 - 2020
 
 Android
+<br>
+Role: Lead Developer
 
 [ptwenergy.com](https://www.ptwenergy.com)
 
@@ -103,6 +129,8 @@ Android
 2018 - 2020
 
 Android
+<br>
+Role: Lead Developer
 
 [Google Play: Fizzi](https://play.google.com/store/apps/details?id=com.vog.fizzi)
 
@@ -110,6 +138,8 @@ Android
 2016 - 2019
 
 Android
+<br>
+Role: Maintenance, Feature Update
 
 [APKPure: Snapbets](https://apkpure.com/snapbets/com.snapbets)
 
@@ -117,6 +147,8 @@ Android
 2018 - 2019
 
 Android
+<br>
+Role: Maintenance
 
 [Google Play: Vieworx](https://play.google.com/store/apps/details?id=com.vogcalgaryappdeveloper.viewrox)
 
@@ -124,6 +156,8 @@ Android
 2018 - 2019
 
 Android
+<br>
+Role: Maintenance
 
 [APKPure: The PRSNLS Dating and Hookup App](https://apkpure.com/the-prsnls-dating-and-hookup-app/com.vog.prsnls)
 
@@ -131,6 +165,8 @@ Android
 2017 - 2018
 
 Android
+<br>
+Role: Lead Developer
 
 [Google Play: ARC Resources AIMS](https://play.google.com/store/apps/details?id=com.vog.arc)
 
@@ -138,6 +174,8 @@ Android
 2018
 
 Android
+<br>
+Role: Maintenance, Feature Update
 
 [APKPure: Triviography](https://apkpure.com/triviography/com.whp.android.triviographyopenteam)
 
@@ -145,6 +183,8 @@ Android
 2018
 
 Android
+<br>
+Role: Maintenance
 
 [APKPure: eJourney Manager](https://apkpure.com/ejourney-manager/app.eJourneyManager.org)
 
@@ -152,6 +192,8 @@ Android
 2018
 
 Android
+<br>
+Role: Maintenance
 
 [APKPure: Johnston's Grain](https://apkpure.com/johnston-s-grain/com.vogcalgaryappdeveloper.johnstons)
 
@@ -159,6 +201,8 @@ Android
 2018
 
 Android
+<br>
+Role: Lead Developer
 
 [APKPure: Skillpics](https://apkpure.com/skillpics/com.vog.skillpics)
 
@@ -166,6 +210,8 @@ Android
 2017 - 2018
 
 Android
+<br>
+Role: Maintenance
 
 [APKPure: JobStream](https://apkpure.com/jobstream-find-jobs-near-you-search-jobs-nearby/com.jobstreaminc.jobstreamapp)
 
@@ -173,6 +219,8 @@ Android
 2017 - 2018
 
 Android
+<br>
+Role: Maintenance
 
 [APKPure: ThinkGolf](https://apkpure.com/think-golf/com.thinkgolf)
 
@@ -180,6 +228,8 @@ Android
 2017 - 2018
 
 Android
+<br>
+Role: Lead Developer
 
 [APKPure: Awtale](https://apkpure.com/awtale/com.vogcalgaryappdeveloper.awtale)
 
@@ -187,6 +237,8 @@ Android
 2016 - 2018
 
 Android, iOS, Django
+<br>
+Role: Lead Developer
 
 [APKPure: The Clueless Guide: Alberta](https://apkpure.com/the-clueless-guide-alberta/com.vogcalgaryappdeveloper.thecluelessguide)
 
@@ -194,6 +246,8 @@ Android, iOS, Django
 2017 - 2018
 
 Android
+<br>
+Role: Maintenance
 
 [APKPure: Squat or Not](https://apkpure.com/squat-or-not-app/com.squatornotapp)
 
@@ -201,11 +255,15 @@ Android
 2017
 
 Raspberry Pi
+<br>
+Role: Lead Developer
 
 ## ![image](https://github.com/matttbates/Portfolio/assets/9297325/d27737bd-29ee-4165-ad50-6a5fb24002c4) Paavaa
 2017
 
 Android
+<br>
+Role: Lead Developer
 
 [APKPure: Paavaa](https://apkpure.com/paavaa-trusted-service-experts-booking-app/com.vogappdeveloper.paavaa)
 
@@ -213,6 +271,8 @@ Android
 2016 - 2017
 
 Android
+<br>
+Role: Developer
 
 [raptorrig.com](https://raptorrig.gdauctions.com)
 
@@ -220,6 +280,8 @@ Android
 2016 - 2017
 
 Android
+<br>
+Role: Maintenance
 
 [APKPure: Qardiyo HF](https://apkpure.com/qardiyo-hf/com.vog.qardiyo.pulse.cardiograph)
 
