@@ -1,5 +1,15 @@
 # Matthew Bates' Portfolio
 
+
+## ![ble debugger icon (Custom) (Custom)](https://github.com/matttbates/Portfolio/assets/9297325/25d156e2-60cd-4d20-944d-781f4b5e1ced) Bluetooth Developer Companion
+2020 - 2023
+<br>
+"This specialized tool facilitates seamless manual connections, providing developers with a robust environment to test and interact with Bluetooth-enabled devices during the development phase."
+
+Android
+<br>
+Lead Developer / Product Owner
+
 ## ![image](https://github.com/matttbates/Portfolio/assets/9297325/6640b49d-94a4-4e7d-a55d-2cf018fdd086) Electrum Unity II
 2020 - 2023
 <br>
