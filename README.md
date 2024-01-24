@@ -1,4 +1,4 @@
-# Portfolio
+# Matthew Bates' Portfolio
 
 ## ![image](https://github.com/matttbates/Portfolio/assets/9297325/6640b49d-94a4-4e7d-a55d-2cf018fdd086) Electrum Unity II
 2020 - 2023
