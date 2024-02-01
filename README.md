@@ -193,7 +193,7 @@ Android
 <br>
 Maintenance, Feature Update
 
-[APKPure: Snapbets](https://apkpure.com/snapbets/com.snapbets)
+[APKPure: Snapbets](https://apkpure.net/snapbets/com.snapbets)
 
 ## ![image](https://github.com/matttbates/Portfolio/assets/9297325/4df6b6b1-172e-4c7c-bded-10d1d6446716) Vieworx
 2018 - 2019
@@ -215,7 +215,7 @@ Android
 <br>
 Maintenance
 
-[APKPure: The PRSNLS Dating and Hookup App](https://apkpure.com/the-prsnls-dating-and-hookup-app/com.vog.prsnls)
+[APKPure: The PRSNLS Dating and Hookup App](https://apkpure.net/the-prsnls-dating-and-hookup-app/com.vog.prsnls)
 
 ## ![image](https://github.com/matttbates/Portfolio/assets/9297325/61e20286-a822-459b-aeba-408c18328fc9) ARC Resources AIMS
 2017 - 2018
@@ -237,7 +237,7 @@ Android
 <br>
 Maintenance, Feature Update
 
-[APKPure: Triviography](https://apkpure.com/triviography/com.whp.android.triviographyopenteam)
+[APKPure: Triviography](https://apkpure.net/triviography/com.whp.android.triviographyopenteam)
 
 ## ![image](https://github.com/matttbates/Portfolio/assets/9297325/76b683d2-f4f5-4fee-a70a-5ccd6fa0d3d9) eJourney Manager
 2018
@@ -248,7 +248,7 @@ Android
 <br>
 Maintenance
 
-[APKPure: eJourney Manager](https://apkpure.com/ejourney-manager/app.eJourneyManager.org)
+[APKPure: eJourney Manager](https://apkpure.net/ejourney-manager/app.eJourneyManager.org)
 
 ## ![image](https://github.com/matttbates/Portfolio/assets/9297325/e6cfc524-750c-433d-b519-80b5ce97ad9f) Johnston's Grain
 2018
@@ -259,7 +259,7 @@ Android
 <br>
 Maintenance
 
-[APKPure: Johnston's Grain](https://apkpure.com/johnston-s-grain/com.vogcalgaryappdeveloper.johnstons)
+[APKPure: Johnston's Grain](https://apkpure.net/johnston-s-grain/com.vogcalgaryappdeveloper.johnstons)
 
 ## ![image](https://github.com/matttbates/Portfolio/assets/9297325/b403fd83-38c7-4b45-8d69-30dd479928e7) SkillPics
 2018
@@ -270,7 +270,7 @@ Android
 <br>
 Lead Developer
 
-[APKPure: Skillpics](https://apkpure.com/skillpics/com.vog.skillpics)
+[APKPure: Skillpics](https://apkpure.net/skillpics/com.vog.skillpics)
 
 ## ![image](https://github.com/matttbates/Portfolio/assets/9297325/ae2bf286-06e9-4891-a2c2-baa231a60aca) JobStream
 2017 - 2018
@@ -281,7 +281,7 @@ Android
 <br>
 Maintenance
 
-[APKPure: JobStream](https://apkpure.com/jobstream-find-jobs-near-you-search-jobs-nearby/com.jobstreaminc.jobstreamapp)
+[APKPure: JobStream](https://apkpure.net/jobstream-find-jobs-near-you-search-jobs-nearby/com.jobstreaminc.jobstreamapp)
 
 ## ![image](https://github.com/matttbates/Portfolio/assets/9297325/ef087979-10ca-4791-b41e-23e05f9db21e) ThinkGolf
 2017 - 2018
@@ -292,7 +292,7 @@ Android
 <br>
 Maintenance
 
-[APKPure: ThinkGolf](https://apkpure.com/think-golf/com.thinkgolf)
+[APKPure: ThinkGolf](https://apkpure.net/think-golf/com.thinkgolf)
 
 ## ![image](https://github.com/matttbates/Portfolio/assets/9297325/acadb576-a683-4255-8879-30cd11afe747) Awtale
 2017 - 2018
@@ -303,7 +303,7 @@ Android
 <br>
 Lead Developer
 
-[APKPure: Awtale](https://apkpure.com/awtale/com.vogcalgaryappdeveloper.awtale)
+[APKPure: Awtale](https://apkpure.net/awtale/com.vogcalgaryappdeveloper.awtale)
 
 ## ![image](https://github.com/matttbates/Portfolio/assets/9297325/ce38eb6f-6788-4a85-8fdc-08fde0dbf8a6) The Clueless Guide: Alberta
 2016 - 2018
@@ -314,7 +314,7 @@ Android, iOS, Django
 <br>
 Lead Developer
 
-[APKPure: The Clueless Guide: Alberta](https://apkpure.com/the-clueless-guide-alberta/com.vogcalgaryappdeveloper.thecluelessguide)
+[APKPure: The Clueless Guide: Alberta](https://apkpure.net/the-clueless-guide-alberta/com.vogcalgaryappdeveloper.thecluelessguide)
 
 ## ![image](https://github.com/matttbates/Portfolio/assets/9297325/d72c5cb0-f375-44fe-b385-1b28e9cff461) Squat or Not
 2017 - 2018
@@ -325,7 +325,7 @@ Android
 <br>
 Maintenance
 
-[APKPure: Squat or Not](https://apkpure.com/squat-or-not-app/com.squatornotapp)
+[APKPure: Squat or Not](https://apkpure.net/squat-or-not-app/com.squatornotapp)
 
 ## Project Spaceship
 2017
@@ -345,7 +345,7 @@ Android
 <br>
 Lead Developer
 
-[APKPure: Paavaa - Trusted Service Experts Booking App](https://apkpure.com/paavaa-trusted-service-experts-booking-app/com.vogappdeveloper.paavaa)
+[APKPure: Paavaa - Trusted Service Experts Booking App](https://apkpure.net/paavaa-trusted-service-experts-booking-app/com.vogappdeveloper.paavaa)
 
 ## ![image](https://github.com/matttbates/Portfolio/assets/9297325/a326c446-c510-4017-bdfe-5229b484da74) Raptor Rig
 2016 - 2017
@@ -367,5 +367,5 @@ Android
 <br>
 Maintenance
 
-[APKPure: Qardiyo HF](https://apkpure.com/qardiyo-hf/com.vog.qardiyo.pulse.cardiograph)
+[APKPure: Qardiyo HF](https://apkpure.net/qardiyo-hf/com.vog.qardiyo.pulse.cardiograph)
 
