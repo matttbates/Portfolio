@@ -1,8 +1,18 @@
 # Matthew Bates' Portfolio
 
+## ![ic_launcher-playstore (Custom)](https://github.com/matttbates/Portfolio/assets/9297325/b07fbabe-c624-41f3-a5ba-43d47c7180e9) Tic-Tac-Toe (Redux)
+2024
+<br>
+This is a demonstration of a mixture of technologies brought together to make very robust applications. More info at https://github.com/matttbates/Tic-Tac-Toe-redux-
+
+Android
+<br>
+Product Owner
+
+[Google Play: Tic-Tac-Toe (Redux)](https://play.google.com/store/apps/details?id=com.matttbates.tictactoeredux)
 
 ## ![ble debugger icon (Custom) (Custom)](https://github.com/matttbates/Portfolio/assets/9297325/25d156e2-60cd-4d20-944d-781f4b5e1ced) Bluetooth Developer Companion
-2020 - 2023
+2020 - 2024
 <br>
 "This specialized tool facilitates seamless manual connections, providing developers with a robust environment to test and interact with Bluetooth-enabled devices during the development phase."
 
@@ -10,8 +20,10 @@ Android
 <br>
 Lead Developer / Product Owner
 
+[Google Play: Bluetooth Developer Companion](https://play.google.com/store/apps/details?id=com.vog.ble_debugger)
+
 ## ![image](https://github.com/matttbates/Portfolio/assets/9297325/6640b49d-94a4-4e7d-a55d-2cf018fdd086) Electrum Unity II
-2020 - 2023
+2020 - 2024
 <br>
 "The Electrum Unity II is the easiest and most intuitive way to maximize all of the features inside of the Diatium3 Saber Core. From motions to clashes, to sounds."
 
