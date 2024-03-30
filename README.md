@@ -1,5 +1,16 @@
 # Matthew Bates' Portfolio
 
+## ![ic_launcher-playstore (Custom)](https://github.com/matttbates/Portfolio/assets/9297325/6fd3c0ca-a544-452c-a49d-56a465b41657) Log-it
+2024
+<br>
+"Log your life's moments effortlessly. Capture memories with ease."
+
+Android
+<br>
+Developer / Product Owner
+
+[Google Play: Log-it](https://play.google.com/store/apps/details?id=com.matttbates.logit.free)
+
 ## ![ic_launcher-playstore (Custom)](https://github.com/matttbates/Portfolio/assets/9297325/b07fbabe-c624-41f3-a5ba-43d47c7180e9) Tic-Tac-Toe (Redux)
 2024
 <br>
@@ -7,7 +18,7 @@ This is a demonstration of a mixture of technologies brought together to make ve
 
 Android
 <br>
-Product Owner
+Developer / Product Owner
 
 [Google Play: Tic-Tac-Toe (Redux)](https://play.google.com/store/apps/details?id=com.matttbates.tictactoeredux)
 
@@ -18,7 +29,7 @@ Product Owner
 
 Android
 <br>
-Lead Developer / Product Owner
+Developer / Product Owner
 
 [Google Play: Bluetooth Developer Companion](https://play.google.com/store/apps/details?id=com.vog.ble_debugger)
 
