@@ -11,6 +11,12 @@ Developer / Product Owner
 
 [Google Play: Log-it](https://play.google.com/store/apps/details?id=com.matttbates.logit.free)
 
+![screen0](https://play-lh.googleusercontent.com/isN_Xi6IT8RY4OmHaEihXAixL9rsjakG5cbFqAjvM05Fc6JW9gZ_FYzpLQ7n1uZzOnU=w526-h296-rw)
+![screen1](https://play-lh.googleusercontent.com/dPeIaAhQkBtSt5t-2RKhFGPx2LHOSWh5R5JMuLWnsVq4dbofruM8ScUKA1DzMa53UUc=w526-h296-rw)
+![screen2](https://play-lh.googleusercontent.com/7BO9Aowdsa096UUQN1yIL8daqYavPpQpDDuTg9N1xJrGPzjP0yxg1GmOhqQxOVfn6rM=w526-h296-rw)
+![screen3](https://play-lh.googleusercontent.com/tJhQFHHMVgXvqq5EnzCO74Mv3DiDfxrIfNJygbDh5MUhHzAl4EpDgOc2wSNkvQvmjgRs=w526-h296-rw)
+![screen4](https://play-lh.googleusercontent.com/eOW9tBj-eBmdQOvppO7sM2kYEXi9aep4PSH7F_GEY27YT8hVheR1l_95wql8sblwfxM=w526-h296-rw)
+
 ## ![ic_launcher-playstore (Custom)](https://github.com/matttbates/Portfolio/assets/9297325/b07fbabe-c624-41f3-a5ba-43d47c7180e9) Tic-Tac-Toe (Redux)
 2024
 <br>
@@ -21,6 +27,13 @@ Android
 Developer / Product Owner
 
 [Google Play: Tic-Tac-Toe (Redux)](https://play.google.com/store/apps/details?id=com.matttbates.tictactoeredux)
+
+![screen0](https://play-lh.googleusercontent.com/jdFtel8y5trmc-y9JE3mmlLcGv4RbsnZHmhqXiwZO-_I6e0LndVUWcNy08BbIp6UtRY=w526-h296-rw)
+![screen1](https://play-lh.googleusercontent.com/biRsE3LfX36_We8ILjA2ev0cfV1ZEWL_P962ipdNVe8KUhwXbRZeAZ6jm2nNzQ7Hdg=w526-h296-rw)
+![screen2](https://play-lh.googleusercontent.com/Z-TLoK7ig5Fs67sDgPv4OViPtlKVRdEqO7kzc-GNZfPxym_nv7EQcHjE0D0KhEjVV8eY=w526-h296-rw)
+![screen3](https://play-lh.googleusercontent.com/yVkN7m7aa9lPcRJ-U6gPMNzHJQMAf5JWf_oBbORdeZbW4Ad_AZ8o9HCLflwkYGyUafY=w526-h296-rw)
+![screen4](https://play-lh.googleusercontent.com/gAZE59RTIlKF54Je8wFsmLK0CIuOrbHfjB5WZaTASp7iyLFMFugfRWnYnafSUePq2cDq=w526-h296-rw)
+![screen5](https://play-lh.googleusercontent.com/LhsdOuLM4eSSq4JppM6tX4kKCcrFREMmPUx7kI5MpLiJGtJVzKP7DjIpqM__ODOfjek=w526-h296-rw)
 
 ## ![ble debugger icon (Custom) (Custom)](https://github.com/matttbates/Portfolio/assets/9297325/25d156e2-60cd-4d20-944d-781f4b5e1ced) Bluetooth Developer Companion
 2020 - 2024
@@ -33,6 +46,9 @@ Developer / Product Owner
 
 [Google Play: Bluetooth Developer Companion](https://play.google.com/store/apps/details?id=com.vog.ble_debugger)
 
+![screen0](https://play-lh.googleusercontent.com/hkAmarkJl5Z1ETd-LfG-5ZGaWPWDUXJGoy9A-zMqBv86nfF2xRicEDL8CMnG4cTyKQ=w526-h296-rw)
+![screen1](https://play-lh.googleusercontent.com/j3l9hG2reH082GPfy1KTRou0Ix1jmxaJO0FdO3TDge3-EDp4v3btiXNjaCYZ8HVpAM9X=w526-h296-rw)
+
 ## ![image](https://github.com/matttbates/Portfolio/assets/9297325/6640b49d-94a4-4e7d-a55d-2cf018fdd086) Electrum Unity II
 2020 - 2024
 <br>
@@ -43,6 +59,11 @@ Android
 Lead Developer
 
 [Google Play: Electrum Unity II](https://play.google.com/store/apps/details?id=com.electrumsabers.unity)
+
+![screen0](https://play-lh.googleusercontent.com/wotaXVih9tHPul2z4MVZt-gXidwsrOE9I7Cowv8S52Z7Kbcq9wecjtTiJUgE5-NirIcy=w526-h296-rw)
+![screen1](https://play-lh.googleusercontent.com/DWfAMJtatIQtFsDurLjKd_iYpqGHv4BsXT7q8ZIHjJajEVAIeDE-lq3bO0KpnjqT6IE=w526-h296-rw)
+![screen2](https://play-lh.googleusercontent.com/Kxudchg1HEYIMprhk5WilCoTJUBeJ8vT6ze3HbUE8AZnqWOLjy4XyyZFo4q_Svqsxbw=w526-h296-rw)
+![screen3](https://play-lh.googleusercontent.com/65OxT4g8apzpBrhGv1CN5bLGjXqJjih1aVSfRv13uRzz8kOQbkR91g_OSrnU5Fi9dEmb=w526-h296-rw)
 
 ## ![image](https://github.com/matttbates/Portfolio/assets/9297325/e52786fa-d3e9-4d4c-9e8a-e647c39c7129) Karbon-X
 2023
