@@ -169,9 +169,17 @@ Android
 <br>
 Maintenance
 
-[Google Play: Vytality](https://play.google.com/store/apps/details?id=com.vog.vytality_customer)
+[APKPure: Vytality](https://apkpure.com/vytality/com.vog.vytality_customer/download)
 <br>
-[Google Play: Vytality - Employee](https://play.google.com/store/apps/details?id=com.vog.vytality_employee)
+[APKPure: Vytality - Employee](https://apkpure.com/vytality-employee/com.vog.vytality_employee/download)
+
+![](https://play-lh.googleusercontent.com/8WArLf8-E8osBQYu6tgg6S1QUM2EvdadyXIT4I2W0VSQOCcT-cqBeG8WzZ688PMWaYI=h296)
+![](https://play-lh.googleusercontent.com/lGF0u0q_WA1RrGNpzUkok8PvKpaNyZROLAIQ-_WMeTFhKAD3z_gGrmDTEFWkwWrX8AYH=h296)
+![](https://play-lh.googleusercontent.com/bDgBMgZPDZ0qMRNeCVqRSr8cV778M90dp7LWTVzm2dxkNPN3uAcTdUCyvMHfCzNNZM0=h296)
+![](https://play-lh.googleusercontent.com/PBAV-H4iNmZmWi_tPWOrmQEyva53EIZ3UI-vNdGxpcXsTiLlvVuji-mkfGyLJvspYhE=h296)
+![](https://play-lh.googleusercontent.com/gYihpHhbUvtxnRnp648D-LGJxjTDMQSYB8sNnUsqGEWpwbjcPsqX5fZALAPv5pXCsLg=h296)
+![](https://play-lh.googleusercontent.com/mewMURc6_HXKhSrpDc0kAE12C4VihUYSiXdh0aFKbZcgjCpi3cjjPYEWA_zUe64y9E0=h296)
+![](https://play-lh.googleusercontent.com/1phEkpt9sbVQ4DSlHMwD8687BFDoT33J1_iNbBAvt69ptjvqUaGm4WgbA5QifyuWFdC1=h296)
 
 ## ![image](https://github.com/matttbates/Portfolio/assets/9297325/2bcd53d0-5338-487a-9f26-e744b9ba1144) Truli
 2020 - 2021
