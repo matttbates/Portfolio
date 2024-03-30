@@ -11,11 +11,11 @@ Developer / Product Owner
 
 [Google Play: Log-it](https://play.google.com/store/apps/details?id=com.matttbates.logit.free)
 
-![screen0](https://play-lh.googleusercontent.com/isN_Xi6IT8RY4OmHaEihXAixL9rsjakG5cbFqAjvM05Fc6JW9gZ_FYzpLQ7n1uZzOnU=w526-h296-rw)
-![screen1](https://play-lh.googleusercontent.com/dPeIaAhQkBtSt5t-2RKhFGPx2LHOSWh5R5JMuLWnsVq4dbofruM8ScUKA1DzMa53UUc=w526-h296-rw)
-![screen2](https://play-lh.googleusercontent.com/7BO9Aowdsa096UUQN1yIL8daqYavPpQpDDuTg9N1xJrGPzjP0yxg1GmOhqQxOVfn6rM=w526-h296-rw)
-![screen3](https://play-lh.googleusercontent.com/tJhQFHHMVgXvqq5EnzCO74Mv3DiDfxrIfNJygbDh5MUhHzAl4EpDgOc2wSNkvQvmjgRs=w526-h296-rw)
-![screen4](https://play-lh.googleusercontent.com/eOW9tBj-eBmdQOvppO7sM2kYEXi9aep4PSH7F_GEY27YT8hVheR1l_95wql8sblwfxM=w526-h296-rw)
+![](https://play-lh.googleusercontent.com/isN_Xi6IT8RY4OmHaEihXAixL9rsjakG5cbFqAjvM05Fc6JW9gZ_FYzpLQ7n1uZzOnU=w526-h296-rw)
+![](https://play-lh.googleusercontent.com/dPeIaAhQkBtSt5t-2RKhFGPx2LHOSWh5R5JMuLWnsVq4dbofruM8ScUKA1DzMa53UUc=w526-h296-rw)
+![](https://play-lh.googleusercontent.com/7BO9Aowdsa096UUQN1yIL8daqYavPpQpDDuTg9N1xJrGPzjP0yxg1GmOhqQxOVfn6rM=w526-h296-rw)
+![](https://play-lh.googleusercontent.com/tJhQFHHMVgXvqq5EnzCO74Mv3DiDfxrIfNJygbDh5MUhHzAl4EpDgOc2wSNkvQvmjgRs=w526-h296-rw)
+![](https://play-lh.googleusercontent.com/eOW9tBj-eBmdQOvppO7sM2kYEXi9aep4PSH7F_GEY27YT8hVheR1l_95wql8sblwfxM=w526-h296-rw)
 
 ## ![ic_launcher-playstore (Custom)](https://github.com/matttbates/Portfolio/assets/9297325/b07fbabe-c624-41f3-a5ba-43d47c7180e9) Tic-Tac-Toe (Redux)
 2024
@@ -28,12 +28,12 @@ Developer / Product Owner
 
 [Google Play: Tic-Tac-Toe (Redux)](https://play.google.com/store/apps/details?id=com.matttbates.tictactoeredux)
 
-![screen0](https://play-lh.googleusercontent.com/jdFtel8y5trmc-y9JE3mmlLcGv4RbsnZHmhqXiwZO-_I6e0LndVUWcNy08BbIp6UtRY=w526-h296-rw)
-![screen1](https://play-lh.googleusercontent.com/biRsE3LfX36_We8ILjA2ev0cfV1ZEWL_P962ipdNVe8KUhwXbRZeAZ6jm2nNzQ7Hdg=w526-h296-rw)
-![screen2](https://play-lh.googleusercontent.com/Z-TLoK7ig5Fs67sDgPv4OViPtlKVRdEqO7kzc-GNZfPxym_nv7EQcHjE0D0KhEjVV8eY=w526-h296-rw)
-![screen3](https://play-lh.googleusercontent.com/yVkN7m7aa9lPcRJ-U6gPMNzHJQMAf5JWf_oBbORdeZbW4Ad_AZ8o9HCLflwkYGyUafY=w526-h296-rw)
-![screen4](https://play-lh.googleusercontent.com/gAZE59RTIlKF54Je8wFsmLK0CIuOrbHfjB5WZaTASp7iyLFMFugfRWnYnafSUePq2cDq=w526-h296-rw)
-![screen5](https://play-lh.googleusercontent.com/LhsdOuLM4eSSq4JppM6tX4kKCcrFREMmPUx7kI5MpLiJGtJVzKP7DjIpqM__ODOfjek=w526-h296-rw)
+![](https://play-lh.googleusercontent.com/jdFtel8y5trmc-y9JE3mmlLcGv4RbsnZHmhqXiwZO-_I6e0LndVUWcNy08BbIp6UtRY=w526-h296-rw)
+![](https://play-lh.googleusercontent.com/biRsE3LfX36_We8ILjA2ev0cfV1ZEWL_P962ipdNVe8KUhwXbRZeAZ6jm2nNzQ7Hdg=w526-h296-rw)
+![](https://play-lh.googleusercontent.com/Z-TLoK7ig5Fs67sDgPv4OViPtlKVRdEqO7kzc-GNZfPxym_nv7EQcHjE0D0KhEjVV8eY=w526-h296-rw)
+![](https://play-lh.googleusercontent.com/yVkN7m7aa9lPcRJ-U6gPMNzHJQMAf5JWf_oBbORdeZbW4Ad_AZ8o9HCLflwkYGyUafY=w526-h296-rw)
+![](https://play-lh.googleusercontent.com/gAZE59RTIlKF54Je8wFsmLK0CIuOrbHfjB5WZaTASp7iyLFMFugfRWnYnafSUePq2cDq=w526-h296-rw)
+![](https://play-lh.googleusercontent.com/LhsdOuLM4eSSq4JppM6tX4kKCcrFREMmPUx7kI5MpLiJGtJVzKP7DjIpqM__ODOfjek=w526-h296-rw)
 
 ## ![ble debugger icon (Custom) (Custom)](https://github.com/matttbates/Portfolio/assets/9297325/25d156e2-60cd-4d20-944d-781f4b5e1ced) Bluetooth Developer Companion
 2020 - 2024
@@ -46,8 +46,8 @@ Developer / Product Owner
 
 [Google Play: Bluetooth Developer Companion](https://play.google.com/store/apps/details?id=com.vog.ble_debugger)
 
-![screen0](https://play-lh.googleusercontent.com/hkAmarkJl5Z1ETd-LfG-5ZGaWPWDUXJGoy9A-zMqBv86nfF2xRicEDL8CMnG4cTyKQ=w526-h296-rw)
-![screen1](https://play-lh.googleusercontent.com/j3l9hG2reH082GPfy1KTRou0Ix1jmxaJO0FdO3TDge3-EDp4v3btiXNjaCYZ8HVpAM9X=w526-h296-rw)
+![](https://play-lh.googleusercontent.com/hkAmarkJl5Z1ETd-LfG-5ZGaWPWDUXJGoy9A-zMqBv86nfF2xRicEDL8CMnG4cTyKQ=w526-h296-rw)
+![](https://play-lh.googleusercontent.com/j3l9hG2reH082GPfy1KTRou0Ix1jmxaJO0FdO3TDge3-EDp4v3btiXNjaCYZ8HVpAM9X=w526-h296-rw)
 
 ## ![image](https://github.com/matttbates/Portfolio/assets/9297325/6640b49d-94a4-4e7d-a55d-2cf018fdd086) Electrum Unity II
 2020 - 2024
@@ -60,10 +60,10 @@ Lead Developer
 
 [Google Play: Electrum Unity II](https://play.google.com/store/apps/details?id=com.electrumsabers.unity)
 
-![screen0](https://play-lh.googleusercontent.com/wotaXVih9tHPul2z4MVZt-gXidwsrOE9I7Cowv8S52Z7Kbcq9wecjtTiJUgE5-NirIcy=w526-h296-rw)
-![screen1](https://play-lh.googleusercontent.com/DWfAMJtatIQtFsDurLjKd_iYpqGHv4BsXT7q8ZIHjJajEVAIeDE-lq3bO0KpnjqT6IE=w526-h296-rw)
-![screen2](https://play-lh.googleusercontent.com/Kxudchg1HEYIMprhk5WilCoTJUBeJ8vT6ze3HbUE8AZnqWOLjy4XyyZFo4q_Svqsxbw=w526-h296-rw)
-![screen3](https://play-lh.googleusercontent.com/65OxT4g8apzpBrhGv1CN5bLGjXqJjih1aVSfRv13uRzz8kOQbkR91g_OSrnU5Fi9dEmb=w526-h296-rw)
+![](https://play-lh.googleusercontent.com/wotaXVih9tHPul2z4MVZt-gXidwsrOE9I7Cowv8S52Z7Kbcq9wecjtTiJUgE5-NirIcy=w526-h296-rw)
+![](https://play-lh.googleusercontent.com/DWfAMJtatIQtFsDurLjKd_iYpqGHv4BsXT7q8ZIHjJajEVAIeDE-lq3bO0KpnjqT6IE=w526-h296-rw)
+![](https://play-lh.googleusercontent.com/Kxudchg1HEYIMprhk5WilCoTJUBeJ8vT6ze3HbUE8AZnqWOLjy4XyyZFo4q_Svqsxbw=w526-h296-rw)
+![](https://play-lh.googleusercontent.com/65OxT4g8apzpBrhGv1CN5bLGjXqJjih1aVSfRv13uRzz8kOQbkR91g_OSrnU5Fi9dEmb=w526-h296-rw)
 
 ## ![image](https://github.com/matttbates/Portfolio/assets/9297325/e52786fa-d3e9-4d4c-9e8a-e647c39c7129) Karbon-X
 2023
@@ -75,6 +75,12 @@ Android
 Maintenance
 
 [Google Play: Karbon-X](https://play.google.com/store/apps/details?id=com.vog.karbonx)
+
+![](https://play-lh.googleusercontent.com/JwzBsDYU1LgGG6itDpxn-YictczG93FMaMZ7BGGtYFE7VwABI-OW1JhQy4lxGmqji_Q=w526-h296-rw)
+![](https://play-lh.googleusercontent.com/YT4OXXvQMwem33GCmhgQuApUBAV9j_qYda5E2Goo4wU9w_vJzSJ-rp5wRKn4b9KJEQ=w526-h296-rw)
+![](https://play-lh.googleusercontent.com/1h6X7AKGB9NL__FokBL_rNYtUI_efMofAYHGAX6MtEnAfUynFTZu7KfwaiX84v8eZg-r=w526-h296-rw)
+![](https://play-lh.googleusercontent.com/aJ9ppS8jrSYzNyz_rM-LsvgzeTjJJDpHvLbSMjJXdioO54ogs5xU5GXWpGauxAWyTm8S=w526-h296-rw)
+![](https://play-lh.googleusercontent.com/uRmCt_krireURcsQGYwAH4wfh8ZvWcsGkpQMzppsstvB7lEPvxkHx_liBOvrQanbZGAi=w526-h296-rw)
 
 ## ![image](https://github.com/matttbates/Portfolio/assets/9297325/dad4adaf-0ecb-49de-bfe6-0770c5fc354b) SiteSentry by Trojan Safety
 2023
@@ -97,6 +103,13 @@ Chromebook, Android Tablet
 Maintenance, Feature Update
 
 [Google Play: HP Anyware PCoIP Client](https://play.google.com/store/apps/details?id=com.teradici.rubato.client)
+
+![](https://play-lh.googleusercontent.com/ryzz2a6S8V0ZNvcNedXnefYyHjRarMMHW3Md2e8k_lhUErynwQQ2DnDlpWBjpSpk-FZn=w526-h296-rw)
+![](https://play-lh.googleusercontent.com/0hQWIajr7zOkNsiezGkcblwrgkr498qzpHsSkBSMCwJOPts72MdjBLHaQfaij3gW6c0=w526-h296-rw)
+![](https://play-lh.googleusercontent.com/Q1piGFSTJ-zdB1IwIK41n4mDFXiEMAaqQlehZAuHP2jtZyepbTQ-At9G2fY6SS7IM6A=w526-h296-rw)
+![](https://play-lh.googleusercontent.com/qUROUfH_ficBWBHXdnRu9hhWUtE3LfTmzjG-i4UKLGsDvElE_fuXCzO-xphEaNKiJ8_-=w526-h296-rw)
+![](https://play-lh.googleusercontent.com/W4e8S73fOywboE2zOY_-i8gwf_c2_OO12Oyrf5kGosXOJXeytwIJwPQakdLoWkDpm4o=w526-h296-rw)
+![](https://play-lh.googleusercontent.com/gWKtqYoSscMHgdRRlRsMQIcUJ63d-5bcE-5-Z8l48LrhIDxVrzgphqzj6TsHoXgMBOU=w526-h296-rw)
 
 ## ![image](https://github.com/matttbates/Portfolio/assets/9297325/fff34fa8-b22a-42a0-82ad-421b81193ef5) Bitvo
 2019 - 2022
@@ -123,6 +136,12 @@ Android
 Lead Developer
 
 [Google Play: Trigger World](https://play.google.com/store/apps/details?id=com.vog.triggerworld)
+
+![](https://play-lh.googleusercontent.com/ZhNmn-B0WkWiQAO476xM3d1oDc9GcKwdDKwNBmQynmL33vC5FjvK7jxaB97hgTP68lGT=w526-h296-rw)
+![](https://play-lh.googleusercontent.com/mMxHU8Emyt04HpMnaNIqswy82ES4L0WH0D5bO0s_MCd7PsZFRco5tadjfnLRyzorHVi-=w526-h296-rw)
+![](https://play-lh.googleusercontent.com/Wc4Hm_5v4QGAz-JScRZ0oeDLI8e4Moya1vvlPFKsYda2RtMguGARyY5LsxzJRMzPibVZ=w526-h296-rw)
+![](https://play-lh.googleusercontent.com/ExRcECZlZC-rSUjF1IBjUM8VaChAeo0a1GAo34DDXuQc8bWhxeBk1kjIQZfU38eKaXc=w526-h296-rw)
+![](https://play-lh.googleusercontent.com/WSLlm0_iLtd37ZElOauKU2w1habzzM85FN3IKbu5775Tn9b9s91hwZdyhipWY5LP9B8=w526-h296-rw)
 
 ## ![image](https://github.com/matttbates/Portfolio/assets/9297325/2c198282-b5f8-46e7-a217-df109e897086) Quill Financial
 2021
