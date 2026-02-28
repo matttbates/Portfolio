@@ -11,8 +11,8 @@ Developer
 
 [Google Play: Marine Service](https://play.google.com/store/apps/details?id=com.dometic.marineservice)
 
-<img width="664" height="1440" alt="image" src="https://github.com/user-attachments/assets/b67d1e0e-06b5-4490-9346-516eb3d1a9e1" />
-<img width="664" height="1440" alt="image" src="https://github.com/user-attachments/assets/020324df-a1c2-4666-a5b7-f630b6df20ae" />
+<img width="138" src="https://github.com/user-attachments/assets/b67d1e0e-06b5-4490-9346-516eb3d1a9e1" />
+<img width="138" src="https://github.com/user-attachments/assets/020324df-a1c2-4666-a5b7-f630b6df20ae" />
 
 ## ![ic_launcher-playstore (Custom)](https://github.com/matttbates/Portfolio/assets/9297325/6fd3c0ca-a544-452c-a49d-56a465b41657) Log-it
 2024
