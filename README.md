@@ -1,5 +1,16 @@
 # Matthew Bates' Portfolio
 
+## ![ic_launcher-playstore (Custom)](https://github.com/user-attachments/assets/339714cf-105c-4006-ad02-84995f73554b) Marine Service
+2025
+<br>
+The Dometic Marine service app is a companion app for Dometic marine products. It is designed to help with fault detection, firmware updates and monitoring. It is currently intended primarily for Dometic service technicians and OEM service technicians.
+
+Android
+<br>
+Developer
+
+[Google Play: Marine Service](https://play.google.com/store/apps/details?id=com.dometic.marineservice)
+
 ## ![ic_launcher-playstore (Custom)](https://github.com/matttbates/Portfolio/assets/9297325/6fd3c0ca-a544-452c-a49d-56a465b41657) Log-it
 2024
 <br>
